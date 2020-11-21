@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "0a8e9f97866a21c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "91a946cfa555836b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "syscalls/open.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94e078a7d8e34c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cd887b3cc09ae10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ea2786116c6910",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22f1bf206064304a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6cc04e3c947e0a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa4685fe0616245d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0502fec50b69107",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "syscalls/open.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "syscalls/open.md",
+    "linux_internals/inode.md",
+    "linux_internals/do_sys_openat.md",
+    "linux_internals/directory_walk.md",
+    "linux_internals/dentry_cache.md",
+    "linux_internals/How linux walks directories.md",
+    "linux internals/dentry cache.md",
+    "syscalls/do_sys_openat.md",
+    "linux internals/How linux walks directories.md",
+    "linux internals/inode.md"
+  ]
+}
