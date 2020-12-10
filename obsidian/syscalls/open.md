@@ -12,4 +12,4 @@ from the man page:
  
  ## tags
  
- #open #systemcall #linux #unix
+ #open #systemcall #linux #io

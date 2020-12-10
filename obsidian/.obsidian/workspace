@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "syscalls/open.md",
+            "file": "linux_internals/ext4/start_here.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "syscalls/open.md",
+                "file": "linux_internals/ext4/start_here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "syscalls/open.md",
+    "linux_internals/ext4/start_here.md",
+    "Untitled.md",
     "linux_internals/inode.md",
+    "linux_internals/vfs_read.md",
+    "linux_internals/security/generic_permission.md",
+    "linux_internals/security/lsm.md",
+    "linux_internals/security/security_file_permission.md",
     "linux_internals/do_sys_openat.md",
-    "linux_internals/directory_walk.md",
-    "linux_internals/dentry_cache.md",
-    "linux_internals/How linux walks directories.md",
-    "linux internals/dentry cache.md",
-    "syscalls/do_sys_openat.md",
-    "linux internals/How linux walks directories.md",
-    "linux internals/inode.md"
+    "syscalls/open.md",
+    "linux_internals/dentry_cache.md"
   ]
 }
